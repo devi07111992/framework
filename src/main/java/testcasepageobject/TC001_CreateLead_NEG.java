@@ -14,7 +14,7 @@ public class TC001_CreateLead_NEG extends Annotations {
 	public void setValue() {
 			
 			
-		testCaseName = "TC002";
+		testCaseName = "TC003";   //Change by ganesh
 		testCaseDesc = "CreateLeadData_NEG";
 		iteration="leads";
 		author="Devi";
