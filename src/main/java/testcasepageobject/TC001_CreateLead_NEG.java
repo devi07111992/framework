@@ -18,7 +18,7 @@ public class TC001_CreateLead_NEG extends Annotations {
 		testCaseDesc = "CreateLeadData_NEG";
 		iteration="leads";
 		author="Devi";
-		category="Smoke";  //change by Divya
+		category="Smoke123";  //change by Divya
 		excelfile="CreateLeadNEG";
 	}
 	@Test(dataProvider="fetchdata")
