@@ -17,7 +17,7 @@ public class TC001_CreateLead_NEG extends Annotations {
 		testCaseName = "TC003";   //Change by ganesh
 		testCaseDesc = "CreateLeadData_NEG";
 		iteration="leads";
-		author="Devi";
+		author="Devi2";  //change by karthi
 		category="Sanity";
 		excelfile="CreateLeadNEG";
 	}
